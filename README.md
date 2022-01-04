@@ -1,3 +1,5 @@
+This repo is being archived as of Jan 2022
+
 # idseq-notebooks
 Scripts for downstream analysis of IDseq data
 
